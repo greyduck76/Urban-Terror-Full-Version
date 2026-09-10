@@ -243,4 +243,4 @@ This repository serves as the official landing page for Urban Terror. The softwa
 **Get the most recent version of Urban Terror today!**
 
 ---
-**Last updated:** 2026-09-09 22:12:46 UTC
+**Last updated:** 2026-09-10 00:47:26 UTC
